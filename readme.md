@@ -1,7 +1,7 @@
 # 103cipher
 
 ## Description
-Maths | 103cipher Epitech Teck1
+Maths Epitech | 103cipher
 
 Cryptography is a very old science, whose goal is to secure communication, so that only its recipient could
 read it.
